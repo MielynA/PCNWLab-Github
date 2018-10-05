@@ -40,7 +40,7 @@ Insert about me
 ### Mielyn Acosta
 <img src='' width='150'>
 
-Insert about me
+Former QA analyst/engineer future Developer 
 
 ---
 ### Daniel Ashley
